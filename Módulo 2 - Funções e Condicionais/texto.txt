@@ -1,1 +1,1 @@
-
+neste exercicio utilzei o pacote prompt-sync, que funciona exatamente como o input() do Python.
